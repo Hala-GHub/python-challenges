@@ -1,4 +1,3 @@
-
 # Challenge 1 — Ticket Price
 # Write an if-elif-else chain that prints the ticket price
 # based on the visitor's age:
